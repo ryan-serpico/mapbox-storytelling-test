@@ -12,7 +12,7 @@ var config = {
         {
             id: 'blanco',
             title: 'Blanco Cafe',
-            image: '/Users/rserpico/Downloads/storytelling-master/src/vanilla-js/images/blanco.jpg',
+            image: 'images/blanco.jpg',
             description: 'Blanco Cafe’s cheese enchiladas are the Tex-Mex template: red corn tortillas, processed cheese in radioactive shades of yellow, chile con carne with a warm mahogany glow. Nothing fancy, just a couple of them served hot with rice, refried beans, a crispy taco and handmade flour tortillas for $8.29. Blanco’s had more than <br> <hr> 45 years to get it right. And it’s right on. 1720 Blanco Road, dine-in and takeout, 210-732-6480, Facebook: @BlancoCafeSA.',
             location: {
                 center: [-98.50754, 29.46211],
